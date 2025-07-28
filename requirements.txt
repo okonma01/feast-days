@@ -1,0 +1,2 @@
+# Runtime dependencies for feastdays package
+# Currently using only Python standard library - no external dependencies required

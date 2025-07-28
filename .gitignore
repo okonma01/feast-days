@@ -1,0 +1,15 @@
+feastdays/__pycache__/
+# Build and distribution directories
+dist/
+build/
+*.egg-info/
+# Additional Python build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+.env
